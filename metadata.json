@@ -1,0 +1,7 @@
+{
+  "name": "WebnexifyStudio Voice Agent",
+  "description": "Enterprise-grade voice assistant 'Nexa' for WebnexifyStudio, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
